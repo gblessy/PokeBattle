@@ -1,0 +1,20 @@
+.intro {
+	color: green;
+	text-align: center;
+}
+
+.player1 {
+	color: blue;
+	text-align: center;
+}
+
+.player2 {
+	color: red;
+	text-align: center;
+}
+
+.game{
+	color: green;
+	text-align: center;
+	text-transform: capitalize;
+}
